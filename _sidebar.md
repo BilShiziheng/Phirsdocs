@@ -12,3 +12,5 @@
 
 
 更新状态:
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1112c532-28bc-449b-974c-4178df128057/deploy-status)](https://app.netlify.com/sites/phiskindcs/deploys)
+Success表示最新状态，Delpying表示更新中
