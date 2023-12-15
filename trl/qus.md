@@ -17,18 +17,6 @@ Phira**主界面**，**设置**，其它，显示实时准度，**开**
 还行，在医院写的，只不过这破电脑卡的~~我一秒钟也不想要了~~我很无语，整这玩意我新电脑也就12分钟顶多，这
 玩意光`npm -i docsify-cli -g`就花了我22min（恼）
 ~~这傻逼Github一会行tm一会不行~~
-这是部分**代码**
-
-`<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Phira皮肤/自制谱导入教程</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Description">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">`
-
 
 ### 5.多久更新一次？
 
