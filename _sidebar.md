@@ -8,7 +8,7 @@
 
 * 其它
     * [一些奇奇怪怪的问题](trl/qus.md)
-    * [关于（暂时无法使用）](trl/about.md)
+    * [碎碎念](trl/ssn.md)
     * [如何下载自制谱](trl/howdmap.md)
 
 
