@@ -10,9 +10,16 @@
     * [一些奇奇怪怪的问题](trl/qus.md)
     * [碎碎念](trl/ssn.md)
     * [如何下载自制谱](trl/howdmap.md)
+    * [文档更新(流水账)](trl/update.md)
 
 
 
 > 更新状态:
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1112c532-28bc-449b-974c-4178df128057/deploy-status)](https://app.netlify.com/sites/phiskindcs/deploys)
 > Success表示最新状态，Building表示更新中
+
+>Phira最新版本:![Phira](https://img.shields.io/badge/Phira-0.5.2-red.svg)
+>建议使用最新版本
+
+
+>version v1.0.1 2023© By BilShiziheng（老名义）
