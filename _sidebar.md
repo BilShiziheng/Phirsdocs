@@ -18,8 +18,8 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1112c532-28bc-449b-974c-4178df128057/deploy-status)](https://app.netlify.com/sites/phiskindcs/deploys)
 > Success表示最新状态，Building表示更新中
 
->Phira最新版本:![Phira](https://img.shields.io/badge/Phira-0.5.2-red.svg)
+>Phira最新版本:![Phira](https://img.shields.io/badge/Phira-0.6.2-red.svg)
 >建议使用最新版本
 
 
->Version v1.0.1 2023© By BilShiziheng（老名义）
+>Version v1.1.2 2024© By BilShiziheng（老名义）
